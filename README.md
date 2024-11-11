@@ -1,4 +1,4 @@
-👋 Hi there, my name is Deborah Apochi
+  # Hi 👋, I'm Deborah Apochi
 
 👩‍💻 I'm a Data Analyst
 
@@ -8,4 +8,4 @@
 
 🎵 When I'm away from coding, I enjoy listening to music, watching movies, or spending time with friends.
 
-📫 I am available for Data Analyst roles. You can connect with me on [LinkedIn](https://www.linkedin.com/in/deborah-apochi/) and [twitter](https://x.com/dechies2?t=QboB2irqZWYpFR_YZTqVTw&s=09). and check out my [portfolio](https://www.datascienceportfol.io/apochideborah297).
+📫 I am available for Data Analyst roles. You can connect with me on [LinkedIn](https://www.linkedin.com/in/deborah-apochi/) and [twitter](https://x.com/dechies2?t=QboB2irqZWYpFR_YZTqVTw&s=09). and check out my [portfolio](https://www.datascienceportfol.io/apochideborah297)
