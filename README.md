@@ -1,11 +1,37 @@
-  # Hi 👋, I'm Deborah Apochi
+  # Hi 👋, I'm Deborah Enehi Apochi
 
-👩‍💻 I'm a Data Analyst
+👩‍💻 Data Analyst | E-commerce & Agri-tech Enthusiast
 
-🔍 I'm interested in Data Analysis and Business Intelligence
+🔍 I specialize in E-commerce and Agri-tech data analysis, helping businesses uncover insights to drive growth, efficiency, and sustainability.
 
-📊 Passionate about uncovering insights from data and creating data-driven solutions, I focus on analyzing datasets, identifying trends, and leveraging data to guide business decisions.
+📊 My expertise includes:
 
-🎵 When I'm away from coding, I enjoy listening to music, watching movies, or spending time with friends.
+Analyzing customer behavior and sales performance in e-commerce
 
-📫 I am available for Data Analyst roles. You can connect with me on [LinkedIn](https://www.linkedin.com/in/deborah-apochi/) and [twitter](https://x.com/dechies2?t=QboB2irqZWYpFR_YZTqVTw&s=09). and check out my [portfolio](https://www.datascienceportfol.io/apochideborah297)
+Evaluating market trends and pricing strategies
+
+Leveraging data for crop sales prediction, yield performance, and agri-supply chain optimization
+
+Building interactive dashboards with Power BI & Excel
+
+Using SQL for database querying and Python (pandas, matplotlib, seaborn, scikit-learn) for analysis & visualization
+
+
+💡 I’m passionate about using data to answer critical business questions, such as:
+
+Which products or crops generate the most revenue/profit?
+
+How can businesses optimize sales channels and reduce costs?
+
+What trends can help forecast demand and improve decision-making?
+
+
+🎵 Outside of data, I enjoy listening to music, watching movies, and catching up with friends.
+
+📫 Let’s connect!
+
+[LinkedIn](https://www.linkedin.com/in/deborah-apochi/)
+
+[twitter](https://x.com/dechies2?t=QboB2irqZWYpFR_YZTqVTw&s=09)
+
+[portfolio](https://www.datascienceportfol.io/apochideborah297)
